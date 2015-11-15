@@ -4,7 +4,7 @@
         <description><![CDATA[SF Media]]></description>
         <link>https://thegrid.ai/sf-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 20:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2015 20:58:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sf-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is "contributory negligence," and why is it such a big danger for cyclists and pedestrians?]]></title>
@@ -26,6 +26,13 @@
             <link>https://medium.com/@ShaneFarthing/the-duties-of-prescience-perfection-561c4c2ea191</link>
             <guid isPermaLink="false">926235b0-0a20-4e2e-8bdc-951b0213993d</guid>
             <pubDate>Sun, 15 Nov 2015 20:57:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Give bicyclists their own roads]]></title>
+            <description><![CDATA[<article><h1>Give bicyclists their own roads</h1><p>A bicyclist is struck and killed by a car in Baltimore on Dec. 27, prompting hundreds of sad and angry cyclists to hold a memorial ride on Jan. 1. A sorrowful start to the New Year. Two days later, another bicyclist is hit by a car in Harford County; the 25-year-old rider is reported to have sustained life-threatening injuries.</p><img src="https://img.washingtonpost.com/rw/WashingtonPost/Production/Libraries/Common/StandingArt/Homepage-Evergreen-Images/BikeMessengers%20WillisBretz%20111390844587.jpg"></article>]]></description>
+            <link>https://www.washingtonpost.com/local/give-bicyclists-their-own-roads/2015/01/06/d814428a-95e8-11e4-927a-4fa2638cd1b0_story.html</link>
+            <guid isPermaLink="false">9687c398-9db6-4cf4-a649-3b96d629b6c4</guid>
+            <pubDate>Sun, 15 Nov 2015 20:57:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Vision Zero" for the District - The Kojo Nnamdi Show]]></title>
@@ -68,13 +75,6 @@
             <link>http://wamu.org/news/14/08/18/for_popular_bicycling_trail_a_safety_measure_hangs_in_the_balance</link>
             <guid isPermaLink="false">61f6dabf-202b-4aa7-a8a5-1ef0bf92bb39</guid>
             <pubDate>Sun, 15 Nov 2015 20:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cyclists May Have To Wait Until Next Year To Change Contributory Negligence Law]]></title>
-            <description><![CDATA[<article><h1>Cyclists May Have To Wait Until Next Year To Change Contributory Negligence Law</h1><p>Time is running out on an effort to change a D.C. law that prevents pedestrians and bicyclists from being compensated for injuries sustained in traffic crashes. A D.C.</p><img src="http://wamu.org/sites/wamu.org/files/styles/headline_landscape/public/images/attach/14721426400_f4affffdf7_z.jpg?itok=_TJKEkTl"></article>]]></description>
-            <link>http://wamu.org/news/14/11/07/dc_cyclists_pressure_council_to_change_accident_law_but_passage_uncertain</link>
-            <guid isPermaLink="false">40740fa3-0da5-418b-8114-9edb64553f32</guid>
-            <pubDate>Sun, 15 Nov 2015 20:57:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
