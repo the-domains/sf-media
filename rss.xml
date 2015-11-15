@@ -4,7 +4,7 @@
         <description><![CDATA[SF Media]]></description>
         <link>https://thegrid.ai/sf-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 20:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2015 20:58:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sf-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is "contributory negligence," and why is it such a big danger for cyclists and pedestrians?]]></title>
@@ -26,6 +26,13 @@
             <link>https://medium.com/@ShaneFarthing/the-duties-of-prescience-perfection-561c4c2ea191</link>
             <guid isPermaLink="false">926235b0-0a20-4e2e-8bdc-951b0213993d</guid>
             <pubDate>Sun, 15 Nov 2015 20:57:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Vision Zero" for the District - The Kojo Nnamdi Show]]></title>
+            <description><![CDATA[<article><h1>"Vision Zero" for the District - The Kojo Nnamdi Show</h1><p>D.C. recently adopted the initiative known as "Vision Zero," which has an ambitious goal: getting traffic deaths down to zero. We explore the challenge of making streets safer.</p><img src="http://thekojonnamdishow.org/wp-content/uploads/2015/03/2807399171_bf010ba5ec_z.jpg"></article>]]></description>
+            <link>http://thekojonnamdishow.org/shows/2015-03-19/vision-zero-for-the-district</link>
+            <guid isPermaLink="false">df2cda4c-8498-42b6-b167-b6c24edbc47f</guid>
+            <pubDate>Sun, 15 Nov 2015 20:57:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Goal Set For D.C.: Totally Eliminate Pedestrian Deaths]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Cyclists May Have To Wait Until Next Year To Change Contributory Negligence Law</h1><p>Time is running out on an effort to change a D.C. law that prevents pedestrians and bicyclists from being compensated for injuries sustained in traffic crashes. A D.C.</p><img src="http://wamu.org/sites/wamu.org/files/styles/headline_landscape/public/images/attach/14721426400_f4affffdf7_z.jpg?itok=_TJKEkTl"></article>]]></description>
             <link>http://wamu.org/news/14/11/07/dc_cyclists_pressure_council_to_change_accident_law_but_passage_uncertain</link>
             <guid isPermaLink="false">40740fa3-0da5-418b-8114-9edb64553f32</guid>
-            <pubDate>Sun, 15 Nov 2015 20:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Call for Mission 2016: Public Funding for America's Public Places]]></title>
-            <description><![CDATA[<article><h1>A Call for Mission 2016: Public Funding for America's Public Places</h1><p>A Call for "Mission 2016" This is not the first time in the agency's history the parks have been at risk of seriously deteriorating from lack of investment. During World War II, parks were nearly shuttered as workers and resources were repurposed to the war effort.</p><img src="https://cdn-images-1.medium.com/max/800/1*ZDgh4MKGgngMvKUY1gzerA.jpeg"></article>]]></description>
-            <link>https://medium.com/@ShaneFarthing/a-call-for-mission-2016-public-funding-for-americas-public-places-1839398e30b9</link>
-            <guid isPermaLink="false">ce884887-bca8-430b-a631-4874836bfcbc</guid>
             <pubDate>Sun, 15 Nov 2015 20:57:09 GMT</pubDate>
         </item>
     </channel>
