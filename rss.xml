@@ -4,7 +4,7 @@
         <description><![CDATA[SF Media]]></description>
         <link>https://thegrid.ai/sf-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 Nov 2015 21:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2015 21:04:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sf-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kill on the road. Get off with a ticket.]]></title>
@@ -33,6 +33,13 @@
             <link>https://medium.com/@ShaneFarthing/the-duties-of-prescience-perfection-561c4c2ea191</link>
             <guid isPermaLink="false">926235b0-0a20-4e2e-8bdc-951b0213993d</guid>
             <pubDate>Sun, 15 Nov 2015 20:57:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WABA announces new Executive Director, Shane Farthing]]></title>
+            <description><![CDATA[<article><h1>WABA announces new Executive Director, Shane Farthing</h1><p>The Washington Area Bicyclist Association has announced Shane Farthing as its new executive director, effective June 3. Photo from Shane Farthing. He takes over from interim director Dorcas Adkins and former head Eric Gilliland, who is now executive director of the National Association of City Transportation Officials.</p><img src="http://greatergreater.com/images/201005/192343.jpg"></article>]]></description>
+            <link>http://greatergreaterwashington.org/post/5896/waba-announces-new-executive-director-shane-farthing/</link>
+            <guid isPermaLink="false">3f4053a1-e42e-49e1-a4e2-25b0b4516ed8</guid>
+            <pubDate>Sun, 15 Nov 2015 20:57:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WABA's Shane Farthing answers the rest of your questions]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.washingtoncitypaper.com/articles/41367/the-symbolism-and-politics-of-bicycling-in-dc</link>
             <guid isPermaLink="false">0320f155-cfd9-4d85-980c-93ec00d4e5c1</guid>
             <pubDate>Sun, 15 Nov 2015 20:57:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Montgomery County planners use 'heat map' to determine demand for bike routes]]></title>
-            <description><![CDATA[<article><h1>Montgomery County planners use 'heat map' to determine demand for bike routes</h1><p>Rockville Pike is hot. So are Friendship Heights and Silver Spring - when it comes to areas that will need more bike routes in Montgomery County. Planners are using a "heat map" to predict where the need is likely to be highest in the county for bicycling routes.</p><img src="https://www.washingtonpost.com/pb/resources/img/twp-3000x1568.jpg"></article>]]></description>
-            <link>https://www.washingtonpost.com/local/montgomery-county-planners-use-heat-map-to-determine-demand-for-bike-routes/2011/09/13/gIQAdmzpRK_story.html</link>
-            <guid isPermaLink="false">35c2c837-2b52-491c-bb76-49b80f70fe37</guid>
-            <pubDate>Sun, 15 Nov 2015 20:57:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
